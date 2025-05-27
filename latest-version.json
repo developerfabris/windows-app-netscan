@@ -2,5 +2,6 @@
     "version": "2.0.1",
     "url": "https://github.com/developerfabris/windows-app-netscan/raw/refs/heads/main/Elmec-netconfig-setup/Debug/setup.exe",
     "changelog": "Added new features",
-    "checksum": "67c999d8ca1450878f682f13eee2f279e4a947e5ed45bf15a2651d5017d67b5f"
+    "checksum": "67c999d8ca1450878f682f13eee2f279e4a947e5ed45bf15a2651d5017d67b5f",
+    "zipurl":"https://github.com/developerfabris/windows-app-netscan/raw/refs/heads/main/Elmec-netconfig-setup/Debug/Elmec-netconfig-setup.zip",
 }
