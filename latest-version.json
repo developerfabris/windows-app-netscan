@@ -1,0 +1,6 @@
+{
+    "version": "2.0.0",
+    "url": "https://github.com/username/repo/releases/download/v1.2.3/YourAppSetup.exe",
+    "changelog": "Added new features",
+    "checksum": "SHA256_HASH_HERE"
+}
